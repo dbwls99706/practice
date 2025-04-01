@@ -1,6 +1,6 @@
 # [level 0] 조건에 맞게 수열 변환하기 1 - 181882 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181882?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181882) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 03월 31일 20:14:46
+2025년 04월 01일 15:09:56
 
 ### 문제 설명
 
